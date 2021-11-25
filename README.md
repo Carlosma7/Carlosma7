@@ -93,7 +93,6 @@ Hi! I'm Carlos Morales, a computer engineer & passionate about technologies from
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Carlosma7/Twitter-Social-Analyzer?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/Carlosma7/Twitter-Social-Analyzer?style=flat-square"/></td>
       </tr>
-
     </tbody>
   </table>
   <br />
