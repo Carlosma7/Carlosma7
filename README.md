@@ -15,8 +15,8 @@ Hi! I'm Carlos Morales, a computer engineer & passionate about technologies from
 ### Talking about my experience:
 
 * 🎓 I graduated from University of Granada Degree in Computer Engineering.
-* 🔬 I'm currently finishing my studies from University of Granada in Professional Master in Computer Engineering.
-* 👨🏻‍💻 I've worked as a technology consultant previously for nearly 2 years.
+* 🔬 I graduated from University of Granada Professional Master in Computer Engineering.
+* 👨🏻‍💻 I've worked as a technology consultant previously for nearly 2 years and I´m actually working as a Software Engineer developing in Odoo.
 * 💻 I love writing code and learn anything about it.
 * 🗣️ Feel free to ![](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg).
 
